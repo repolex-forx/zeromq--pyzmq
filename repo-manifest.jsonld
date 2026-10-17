@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/zeromq/pyzmq/commit/1cbf63a7910b77483dd53265b569c1137e8a01f4",
       "git:hexsha": "1cbf63a7910b77483dd53265b569c1137e8a01f4",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T01:19:24.751905+00:00"
     },
     {
       "@id": "https://repolex.ai/r/zeromq/pyzmq/commit/c371aa86080ac22a6ddd68ad34b03a7844995c0d",
